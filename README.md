@@ -11,3 +11,6 @@ Após os números inseridos há o botão "finalizar", que mostrará quantos núm
 Aprofundando cada vez mais, em JavaScript. Entendendo mais sobre functions, condicionamentos, laços e repetições, arrays, appendChild().
 
 ##
+
+<img src="" />
+<img src="" />

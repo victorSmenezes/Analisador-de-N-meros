@@ -12,5 +12,5 @@ Aprofundando cada vez mais, em JavaScript. Entendendo mais sobre functions, cond
 
 ##
 
-<img src="" />
-<img src="" />
+<img src="https://raw.githubusercontent.com/victorSmenezes/Analisador-de-Numeros/0a629f129a99022e91a9288bb422e9fc690cba4d/Analisador-numeros-1.png" />
+<img src="https://raw.githubusercontent.com/victorSmenezes/Analisador-de-Numeros/0a629f129a99022e91a9288bb422e9fc690cba4d/Analisador-numeros-2.png" />
